@@ -5,8 +5,8 @@ It provides detailed insights into account structures, patterns, and relationshi
 
 ## 🚀 Quick Start
 ```bash
-git clone <your-repo-url>
-cd spade
+git clone --no-checkout https://github.com/metamania01/MetaStick.git
+cd MetaStick/rust-sticks/SPADE
 cargo run -- <PROGRAM_ID>
 ````
 
