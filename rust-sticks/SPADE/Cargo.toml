@@ -1,0 +1,15 @@
+[package]
+name = "account_program_finder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-client = "1.17" 
+solana-sdk = "1.17"   
+anyhow = "1.0"
+dotenv = "0.15"
+bs58 = "0.4.0"
+hex = "0.4.3"
+chrono = "0.4"
+solana-account-decoder = "1.17"
+solana-transaction-status = "1.17"
