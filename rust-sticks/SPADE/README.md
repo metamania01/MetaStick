@@ -4,6 +4,18 @@ SPADE is a comprehensive tool for analyzing Solana program accounts and their re
 It provides detailed insights into account structures, patterns, and relationships within any Solana program.
 
 ## 🚀 Quick Start
+
+```bash
+git clone --no-checkout https://github.com/metamania01/MetaStick.git
+cd MetaStick/rust-sticks/SPADE
+cargo install rust-script
+chmod +x spade.rs
+./spade.rs <PROGRAM_ID>
+````
+That's all you need to get started with the script version!
+
+## 🚀 Full Start
+
 ```bash
 git clone --no-checkout https://github.com/metamania01/MetaStick.git
 cd MetaStick/rust-sticks/SPADE
