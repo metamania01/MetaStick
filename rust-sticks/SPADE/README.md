@@ -72,5 +72,5 @@ Feel free to:
 
 ## 👥 Built By
 
-Bluewolf & IcarusxB
+Bluewolf
 
